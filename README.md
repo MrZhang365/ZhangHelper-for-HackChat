@@ -1,5 +1,5 @@
-# ZhangHelper365  
-欢迎使用 ZhangHelper365，这是ZhangHelper的最新版本  
+# ZhangHelper365 for HackChat  
+这是 ZhangHelper365 的 HackChat 适配版，基于 ZhangHelper Kernel  
 
 # 如何使用  
 1. 准备好 Node.js 环境
@@ -13,4 +13,4 @@
 本项目使用 Apache-2.0 许可证，请严格遵循它的要求  
 
 # 注意  
-本机器人仅适用于 [ZhangChat](https://github.com/ZhangChat-Dev-Group/ZhangChat)，对于其他HC框架的聊天室，可能会产生一系列不可预知的错误。  
+ZhangHelper365 在运行时必须拥有协管权限（例如 mbot AfK_Bot），由于开发环境的限制，这里只做了 AfK_Bot 的适配，如需更改为适配 mbot，请修改 MainClient.js 的 kick 函数   
