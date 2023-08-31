@@ -1,0 +1,14 @@
+{
+    "auth": {
+        "server": "wss://hack.chat/chat-ws",
+        "nick": "ZhangHelper365",
+        "password": "PASSWORD",
+        "channel": "CHANNEL"
+    },
+    "admin": "admin's tripcode",
+    "ops": [],
+    "blockedNicks": [],
+    "gptID": {},
+    "nsfw": [],
+    "bannedHashs": []
+}
